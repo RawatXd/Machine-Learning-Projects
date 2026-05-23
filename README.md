@@ -46,8 +46,8 @@ Feel free to fork this repository, explore the code, and contribute by submittin
 ## Contact
  
 - GitHub: [@RawatXd](https://github.com/RawatXd)
-- LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- Email: your.email@example.com
+- LinkedIn: (https://www.linkedin.com/in/abhishek-rawat-5s5/)
+- Email: abhishekrawat.du.or.26@gmail.com
 ---
  
 ⭐ If you find this repository helpful, please consider giving it a star!
