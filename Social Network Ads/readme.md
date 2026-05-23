@@ -1,4 +1,4 @@
- 📢 Social Network Ads — Purchase Prediction
+## 📢 Social Network Ads — Purchase Prediction
  
 A machine learning project that applies **Logistic Regression** to predict whether a social network user will purchase a product based on their age, gender, and estimated salary.
  
