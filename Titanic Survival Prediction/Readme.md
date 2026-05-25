@@ -34,16 +34,6 @@ The dataset (`titanic.csv`) contains **12 columns** describing each passenger:
  
 ---
  
-## 🔧 Requirements
- 
-Install all dependencies using pip:
- 
-```bash
-pip install pandas matplotlib seaborn scikit-learn notebook
-```
- 
----
- 
 ## 🚀 How to Run
  
 1. **Clone or download** this repository.
@@ -102,10 +92,3 @@ from sklearn.metrics import classification_report, confusion_matrix
 ```
  
 ---
- 
-## 📝 Notes
- 
-- The `cabin` column has a high rate of missing values and is dropped during preprocessing.
-- One-hot encoding of `sex` produces two binary columns (`sex_male`, `sex_female`).
-- `StandardScaler` is applied only to the `fare` column to normalize its range.
- 
