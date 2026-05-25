@@ -1,4 +1,4 @@
-## Machine Learning Projects
+# Machine Learning Projects
 
 A portfolio of machine learning projects covering classification, regression, and clustering — built with Python and scikit-learn.
 
