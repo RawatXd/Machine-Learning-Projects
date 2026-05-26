@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-A collection of hands-on ML projects arranged from basics to advanced concepts.
+Welcome to my machine learning projects repository! This portfolio contains a series of hands-on projects designed to demonstrate various machine learning techniques, algorithms, and workflows. Each project explores different aspects of data science, from data cleaning and preprocessing to model training and evaluation.
 
 ## Projects
 
